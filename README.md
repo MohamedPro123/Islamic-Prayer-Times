@@ -25,3 +25,4 @@ Planned updates:
 Installed on home screen with NSP converter, icon changed with SwitchU
 
 If you have any suggestions let me know on GBATemp. Thanks and enjoy
+![NS](https://img.shields.io/badge/-Nintendo%20Switch-e4000f?style=flat&logo=Nintendo%20Switch)
