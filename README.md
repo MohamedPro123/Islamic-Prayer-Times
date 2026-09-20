@@ -7,7 +7,7 @@ Works in Applet mode.
 
 The app itself is a very basic shell, and is lightweight. I made this because the Nintendo Switch is such a capable device, it has the opportunity
 to be the ultimate all-in-one device, however I was surprised an app like this doesn't exist, so I made it in case you don't have a phone or PC on you but need to know what time a prayer is.
-There is a list of 114 cities, and you can search for any city you want outside that list as long as the app can find it and geolocate.
+There is a list of 114 major cities in the app, and You can also search for any city you want outside that list as long as the app can find it and geolocate.
 
 # Installation
 
