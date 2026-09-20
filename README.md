@@ -10,7 +10,7 @@ to be the ultimate all-in-one device, however I was surprised an app like this d
 
 # Installation
 
-To install, go to the Switch folder on your sd card, create a folder called prayer-times, and put the NRO File in it. 
+To install, go to the Switch folder on your sd card, create a folder called prayer-times, and put the NRO File in it. That's it.
 
 Uses AlAdhan api and Islamic Society of North America method.
 
