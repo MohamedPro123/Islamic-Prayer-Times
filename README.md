@@ -6,7 +6,11 @@ For Nintendo Switch
 Works in Applet mode.
 
 The app itself is a very basic shell, and is lightweight.
+
+# Installation
+
 To install, go to the Switch folder on your sd card, create a folder called prayer-times, and put the NRO File in it. 
+
 Uses AlAdhan api and Islamic Society of North America method.
 
 Planned updates: 
