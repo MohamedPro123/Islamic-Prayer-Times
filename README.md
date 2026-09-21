@@ -17,8 +17,11 @@ Uses AlAdhan api and Islamic Society of North America method.
 
 Planned updates: 
 - Being able to be added to Tesla/ultrahand menu
-- A real nice looking more functional GUI using Borealis
-- Potentially a sys-module that can give you notifications?
+- An actual, nice looking more functional GUI using Borealis
+- Potentially a sys-module that can give you notifications in-game?
+- Being able to save custom locations with precise coordinates
+- Allowing different methods of tracking prayer times
+- HB App Store release (once I believe it is good enough)
 
 ![background](https://i.postimg.cc/tTt2JXhr/image.png)
 Installed on home screen with NSP converter, icon changed with SwitchU
