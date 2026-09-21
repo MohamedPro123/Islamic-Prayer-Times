@@ -1,5 +1,9 @@
 # Changelog
 
+## - September 21, 2026 
+### Fixed
+- Offline title issue
+
 ## - September 20, 2026 - Day 1 Updates
 ### Added
 - Offline support
