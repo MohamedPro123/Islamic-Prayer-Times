@@ -21,6 +21,9 @@ Planned updates:
 - Potentially a sys-module that can give you notifications in-game?
 - HB App Store release (once I believe the app is good enough)
 
+ ![background](https://i.postimg.cc/qMCZmmQw/2026092317064100-36703B5A0E339A67D5A7BC656F619A0E.jpg)
+
+
 # Full features list ▶
 - ~480 built-in offline cities in many majority Muslim and non-majority Muslim places browsable and alphabetized
 - Type-to-filter (Y), page jump (L/R), jump-to-next-letter (ZL/ZR) for navigating the list
