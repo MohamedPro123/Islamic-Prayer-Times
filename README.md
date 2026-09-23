@@ -19,9 +19,21 @@ Planned updates:
 - Being able to be added to Tesla/ultrahand menu
 - An actual, nice looking more functional GUI using Borealis
 - Potentially a sys-module that can give you notifications in-game?
-- Being able to save custom locations with precise coordinates
-- Allowing different methods of tracking prayer times
-- HB App Store release (once I believe it is good enough)
+- HB App Store release (once I believe the app is good enough)
+
+# Full features list ▶
+- ~480 built-in offline cities in many majority Muslim and non-majority Muslim places browsable and alphabetized
+- Type-to-filter (Y), page jump (L/R), jump-to-next-letter (ZL/ZR) for navigating the list
+- Search any place worldwide online (free-text address lookup via Aladhan API)
+- Enter custom coordinates by hand (lat/lon + manual UTC offset) — works fully offline
+- Save any location (city, custom coordinates, or a searched address) under a name for instant reuse later
+- Remembers your last-used location and launches straight into it
+- 7 calculation methods: ISNA, Muslim World League, Umm Al-Qura, Karachi, Egyptian, Tehran, Diyanet
+- Hanafi / Standard (Shafi) Asr toggle
+- High-latitude adjustment: None, Middle of the Night, One-Seventh, Angle-Based (only kicks in where the plain calculation is actually impossible for the day/latitude)
+- Fully offline solar-position calculator as a fallback whenever there's no internet, using the console's own timezone database for accurate, DST-aware local date/time
+- Live Aladhan API lookups used first when online, for the freshest numbers
+
 
 ![background](https://i.postimg.cc/tTt2JXhr/image.png)
 Installed on home screen with NSP converter, icon changed with SwitchU
