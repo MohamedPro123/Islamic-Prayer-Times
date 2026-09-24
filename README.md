@@ -13,7 +13,7 @@ There is a list of over 400 major cities in the app available offline, and you c
 
 To install, go to the Switch folder on your sd card, create a folder called "prayer-times", and put the NRO File in it. That's it.
 
-Uses AlAdhan api and Islamic Society of North America method.
+Default settings are Islamic Society of North America method, Standard Shafi for Asr, no high latitude rule (just clamps to horizon) and 24 hour time. These can all be changed.
 
 Planned updates: 
 - Being able to be added to Tesla/ultrahand menu
