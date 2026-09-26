@@ -21,7 +21,11 @@ Planned updates:
 - Potentially a sys-module that can give you notifications in-game?
 - HB App Store release (once I believe the app is good enough)
 
- ![background](https://i.postimg.cc/qMCZmmQw/2026092317064100-36703B5A0E339A67D5A7BC656F619A0E.jpg)
+ ![background](https://i.postimg.cc/C1twYZJ4/2026092612174100-5DFDD0B600DAC7776C1ED0D78CC712D5.jpg)
+ ![background](https://i.postimg.cc/C1twYZJb/2026092612181500-5DFDD0B600DAC7776C1ED0D78CC712D5.jpg)
+  ![background](https://i.postimg.cc/Y9Vtk483/2026092612184800-5DFDD0B600DAC7776C1ED0D78CC712D5.jpg)
+
+
 
 
 # Full features list ▶
