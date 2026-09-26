@@ -1,4 +1,4 @@
-# Islamic-Prayer-Times
+# Prayer Times NX
 For Nintendo Switch
 
 ![background](https://i.postimg.cc/j5ZPBCHB/Icon.png)
