@@ -1,5 +1,9 @@
 # Changelog
 
+## - September 26, 2026 
+### Changes
+- Various UI improvements
+
 ## - September 23, 2026 
 ### Huge Update!
 - Now just under 500 offline cities total
